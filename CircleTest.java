@@ -27,7 +27,7 @@ class Circle {
     }
 }
 
-public class Circletest {
+public class CircleTest {
     public static void main(String[] args) {
         System.out.println("Name: MD. Mamunur Rahman Shuvo");
         System.out.println("ID: 250121055\n");
